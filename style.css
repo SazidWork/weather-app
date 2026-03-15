@@ -1,0 +1,19 @@
+body{
+font-family: Arial;
+text-align:center;
+margin-top:100px;
+}
+
+.weather{
+display:inline-block;
+padding:20px;
+border:1px solid #ccc;
+}
+
+input{
+padding:10px;
+}
+
+button{
+padding:10px;
+}
